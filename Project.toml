@@ -1,0 +1,10 @@
+name = "InterruptHandling"
+uuid = "21e78411-e81c-4c94-b35e-543db7ca5762"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+
+[compat]
+julia = "1"
